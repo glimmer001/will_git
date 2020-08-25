@@ -9,6 +9,7 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("this model will push to Gitee");
+        System.out.println("change client");
     }
 
 }
